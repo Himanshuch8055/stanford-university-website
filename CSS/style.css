@@ -9,7 +9,7 @@
   width: 100%;
   /* background-image: url(image/banner.png); */
   background-image: linear-gradient(rgba(70, 200, 255, 0.300), rgba(5, 10, 40, 0.700)),
-    url(image/banner.png);
+    url(/image/banner.png);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -39,7 +39,7 @@ nav img {
 }
 
 .nav-link ul li a {
-  color: #fff;
+  color: whitesmoke;
   text-decoration: none;
   font-size: 13px;
 }
@@ -60,7 +60,7 @@ nav img {
 
 .text-box {
   width: 90%;
-  color: #fff;
+  color: whitesmoke;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -75,14 +75,14 @@ nav img {
 .text-box p {
   margin: 10px 0 40px;
   font-size: 14px;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .hero-btn {
   display: inline-block;
   text-decoration: none;
-  color: #fff;
-  border: 1px solid #fff;
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
   padding: 12px 34px;
   font-size: 13px;
   background: transparent;
@@ -123,7 +123,7 @@ nav .fa {
 
   nav .fa {
     display: block;
-    color: #fff;
+    color: whitesmoke;
     margin: 10px;
     font-size: 22px;
     cursor: pointer;
@@ -225,7 +225,7 @@ h3 {
 .layer h3 {
   width: 100%;
   font-weight: 500;
-  color: #fff;
+  color: whitesmoke;
   font-size: 26px;
   bottom: 0;
   left: 50%;
@@ -322,7 +322,7 @@ h3 {
   margin: 100px auto;
   width: 80%;
   background-image: linear-gradient(rgba(70, 200, 255, 0.300), rgba(5, 10, 40, 0.700)),
-    url(image/banner2.jpg);
+    url(/image/banner2.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
@@ -331,7 +331,7 @@ h3 {
 }
 
 .cta h1 {
-  color: #fff;
+  color: whitesmoke;
   margin-bottom: 40px;
   padding: 0;
 }
@@ -371,11 +371,11 @@ h3 {
   height: 50vh;
   width: 100%;
   background-image: linear-gradient(rgba(70, 200, 255, 0.300), rgba(5, 10, 40, 0.700)),
-    url(image/background.jpg);
+    url(/image/background.jpg);
   background-position: center;
   background-size: cover;
   text-align: center;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .sub-header h1 {
@@ -413,7 +413,7 @@ h3 {
 }
 
 .red-btn:hover {
-  color: #fff;
+  color: whitesmoke;
 }
 
 /* Blog Page content */
@@ -448,7 +448,7 @@ h3 {
 
 .blog-right h3 {
   background: #f44336;
-  color: #fff;
+  color: whitesmoke;
   padding: 7px 0;
   font-size: 16px;
   margin-bottom: 20px;
